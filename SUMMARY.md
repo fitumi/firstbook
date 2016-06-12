@@ -1,4 +1,4 @@
 # Summary
 
-* [Summary Entry 1](chapter-01)
+* Summary Entry 1
 
